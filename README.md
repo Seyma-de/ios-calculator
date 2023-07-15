@@ -14,3 +14,5 @@ This is a simple iOS calculator project implemented using JavaScript. It provide
 - HTML: The structure and layout of the calculator interface.
 - CSS: Styling and design of the calculator.
 - JavaScript: Implementing the calculator's functionality.
+  
+![Proje Gif'i](/gif/ioscal.gif)
